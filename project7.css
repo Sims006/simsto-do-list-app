@@ -13,7 +13,7 @@ body{
     min-height: 100vh;
     background: linear-gradient(180deg, aquamarine, #fff);
 }
-@media screen and (max-width: 600px) {
+
     .box{
         position: relative;
         width: 450px;
@@ -27,7 +27,6 @@ body{
         inset 5px 5px 20px rgba(255, 255, 255, 0.2),
         inset -5px -5px 15px rgba(0, 0, 0, 0.75);
     }
-}
 
   
 h2{
